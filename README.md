@@ -3,7 +3,7 @@
 
 ## Overview
 
-The Car Garage Manager is a command-line interface application that provides a garage for managing vehicles and their owners. Users can add new vehicles to the garage, change the status of vehicles, inflate vehicle tires, refuel fuel-powered vehicles, charge electric vehicles, and display full vehicle information.
+The Car Garage Manager is a command-line interface application that provides a garage for managing vehicles. Users can add new vehicles to the garage, change the status of vehicles, inflate vehicle tires, refuel fuel-powered vehicles, charge electric vehicles, and display full vehicle information.
 
 ## Installation
 
